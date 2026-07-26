@@ -51,7 +51,7 @@
 </details>
 
 <br/>
-
+ 
 ## 🧠 About the Project
 
 **HiberTech** is a full-stack, enterprise-grade collaboration platform built to help modern teams plan, build, and ship faster — merging project management, real-time chat, and Kanban-style workflows into one secure, unified workspace.
