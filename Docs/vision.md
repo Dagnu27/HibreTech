@@ -1,6 +1,6 @@
 # HiberTech — Product Vision
 ## 1. Document Purpose
-This document defines the high-level vision for HiberTech, including its purpose, target users, business value, scope, and long-term direction. It serves as the foundation for future requirements, design, development, testing, and release documentation.
+This document defines the high-level vision for HiberTech    , including its purpose, target users, business value, scope, and long-term direction. It serves as the foundation for future requirements, design, development, testing, and release documentation.
 ## 2. Product Name
 **HiberTech**
 ## 3. Tagline
