@@ -1,11 +1,4 @@
-Your `docs/08-architecture.md` is already strong and consistent with the previous documents. I would keep the existing architecture and make the requested additions without expanding the MVP unnecessarily.
-
-Below is the finalized version.
-
-# `docs/08-architecture.md`
-
 # HiberTech — System Architecture
-
 ## 1. Purpose and Goals
 
 This document defines the HiberTech MVP architecture, including its main components, communication patterns, data flow, deployment structure, and security boundaries.
