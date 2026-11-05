@@ -71,7 +71,7 @@ The platform is designed for:
 - 🌍 NGOs
 - 🎯 Agencies
 - 📁 Internal project teams
-
+- 🌍 NGOs
 HiberTech combines essential collaboration tools into one centralized
 workspace, reducing the need to switch between multiple disconnected
 applications.
