@@ -235,6 +235,7 @@ The dashboard provides:
 - Role-Based Access Control
 - Request validation
 - Rate limiting
+- 
 
 ### File Storage
 - Cloudinary or AWS S3
